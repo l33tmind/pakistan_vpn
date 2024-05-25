@@ -1,0 +1,38 @@
+ext {
+
+   //TODO change your appId here
+   appId = "com.minvpn.minvpn"
+
+   //TODO Use your control panel IP address or domain name (example: "https://admin.ibopay.co/")
+   remoteBaseUrl = "https://minvpn.minone.io/"
+
+   //TODO : true if you want to use AdMob ids in this file or false if you want to use AdMob ids from admin panel
+   useEmbeddedAdmobIds = false
+
+   //TODO use your own admob keys
+   adMobAppId = "ca-app-pub-9151679081139895~4030701506"
+   adMobBannerKey = "ca-app-pub-3300769607225883/7741491744"
+   interstitialKey = "ca-app-pub-3300769607225883/3841775183"
+   adMobMoreTimeInterstitialKey = ""
+   adMobAppOpenKey = "ca-app-pub-3300769607225883/2228486209"
+   adMobRewardedInterstitialKey = ""
+   adNativeAdvancedKey = "ca-app-pub-3300769607225883/4519607628"
+   adNativeAdvancedKey = "" //with video
+
+   minSDKVersion = 21
+   compileSDKVersion = 33
+   targetSDKVersion = 33
+
+   appCompatVersion = '1.5.1'
+   fragmentVersion = '1.5.5'
+   androidXCoreVersion = '1.9.0'
+   androidXAnnotationVersion = '1.5.0'
+   constraintLayoutVersion = '2.1.4'
+   recyclerviewVersion = '1.2.1'
+   materialVersion = '1.7.0'
+   cardviewVersion = '1.0.0'
+   timberVersion = '5.0.1'
+   adMobVersion = '21.3.0'
+   navVersion = '2.4.0'
+   androidxPreferenceVersion = '1.2.0'
+}

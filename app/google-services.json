@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575630794565",
+    "project_id": "min-vpn",
+    "storage_bucket": "min-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575630794565:android:9bdb70da3dcd3b1958e82c",
+        "android_client_info": {
+          "package_name": "com.minvpn.minvpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx0YRd8kWlzYkTnavxYSEB4AHSTmzzZ_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
